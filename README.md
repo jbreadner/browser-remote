@@ -4,6 +4,8 @@ This tool is used by me to allow [Deckboard](https://www.deckboard.app/) running
 
 This tool was developed and used in Linux (latest Ubuntu) but it will probably work on any platform.
 
+I use this with Node.js v20.  Newer versions won't be a problem; older versions might be.
+
 ##  Prerequisites
 
 This tool communicates with a running browser using the remote debugging port.  Only Chrome-based browsers seem to work (I have used [Vivaldi](https://vivaldi.com) and [Google Chrome](https://www.google.com/intl/en_ca/chrome/dr/download)).  I launch vivaldi with these arguments:
