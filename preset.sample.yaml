@@ -1,0 +1,7 @@
+presets:
+  youtube:
+    check: "//www.youtube.com/"
+    url: "https://youtube.com/"
+  reddit:
+    check: "//www.reddit.com/"
+    url: "https://www.reddit.com/"
